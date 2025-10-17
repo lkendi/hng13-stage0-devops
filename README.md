@@ -1,2 +1,2 @@
-Name: Lucy Kendi
+Name: Lucy Kendi  //
 Slack username: Lucy K.
