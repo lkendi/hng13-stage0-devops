@@ -1,3 +1,5 @@
+This is a simple nginx server.
+
 Name: Lucy Kendi  //
-Slack username: Lucy K.
+Slack username: Lucy K. //
 Deployed on: http://102.37.18.233/
